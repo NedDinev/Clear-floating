@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    border: 2px solid #000000;
+    padding: 20px 20px 20px 20px;
+    background-color: #8B603D;
+    color:#ffffff;
+}
+
+main{
+    margin: 20px 20px 60px 20px;
+    padding: 20px;
+}
+
+.buttons{
+    float: left;
+}
+
+.buttons div{
+    border: 1px solid #33B5E5;
+    background-color: #33B5E5;
+color: #ffffff;   
+    margin: 15px;
+    padding: 10px;
+    width: 130px;
+}
+
+
+footer{
+    border: 2px solid #000000;
+    padding: 20px 20px 20px 20px;
+    background-color: #8B603D;
+    color:#ffffff;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
